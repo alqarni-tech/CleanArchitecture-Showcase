@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1ErZJbX4dQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\00014226\\Desktop\\Github Projects\\SaaS-Starter-Solutions\\CleanArchitecture-Showcase\\src\\CleanArchShowcase.API\\CleanArchShowcase.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\00014226\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\00014226\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
